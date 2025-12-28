@@ -60,7 +60,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shraddhajain0989&show_icons=true&theme=tokyonight" />
+  <img src="![Shraddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shraddhajain0989&show_icons=true)" />
 </p>
 
 ---
