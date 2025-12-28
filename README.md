@@ -88,10 +88,12 @@
   <a href="https://github.com/shraddhajain0989">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30"/>
   </a>
-  <a [href="https://www.codechef.com/users/shraddha_jain6">
+  &nbsp;&nbsp;
+  <a [href="https://codechef.com/users/shraddha_jain6">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="30"/>
   </a>
-  <a href="https://www.instagram.com/shraddhaj_vlogs">
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/shraddhaj_vlogs">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30"/>
   </a>
   
