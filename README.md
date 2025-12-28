@@ -61,7 +61,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shraddhajain0989&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shraddhajain0989&show_icons=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
