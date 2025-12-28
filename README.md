@@ -1,5 +1,5 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shraddha-jain-)
-[![CodeChef](https://img.shields.io/badge/CodeChef-brown?logo=codechef)](https://www.codechef.com/users/shraddha_jain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/shraddha-jain-861a042b3)
+[![CodeChef](https://img.shields.io/badge/CodeChef-brown?logo=codechef)](https://www.codechef.com/users/shraddha_jain0989)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/shraddha_vlogs)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/@shr_dvlogs)
 <h1 align="center">Hi 👋, I'm Shraddha Jain</h1>
