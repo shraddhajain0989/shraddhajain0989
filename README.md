@@ -79,24 +79,32 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shraddha-jain-861a042b3">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30"/>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="30" />
   </a>
-  &nbsp;&nbsp;
-  
-  &nbsp;&nbsp;
-  <a href="https://github.com/shraddhajain0989">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/shraddha-jain-861a042b3/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" />
   </a>
-  &nbsp;&nbsp;
-  <a [href="https://codechef.com/users/shraddha_jain6">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="30"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/shraddhaj_vlogs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/shraddhaj_vlogs">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" width="30" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="30" />
+  </a>
 </p>
-
-
