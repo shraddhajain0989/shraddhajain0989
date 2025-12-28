@@ -79,32 +79,31 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/shraddha-jain-861a042b3/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" />
+  <a href="https://www.linkedin.com/in/shraddha-jain-861a042b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/shraddhaj_vlogs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" />
+  
+  <a href="https://www.hackerrank.com/profile/shraddhajain0989/">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" width="30" />
+  <a href="https://leetcode.com/u/shraddhajain0989/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/shraddha_jain6">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+<a href="https://youtube.com/@shr_dvlogs">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="30" />
+  <a href="https://www.instagram.com/shraddhaj_vlogs/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="30" />
+    <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
