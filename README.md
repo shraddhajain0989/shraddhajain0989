@@ -80,36 +80,27 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shraddha-jain-861a042b3/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;
   <a href="https://leetcode.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;
   <a href="https://www.codechef.com/users/shraddha_jain6">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/CodeChef_Logo.svg" width="40"/>
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white&style=flat"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;
   <a href="https://youtube.com/@shr_dvlogs">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=flat"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;
   <a href="https://www.instagram.com/shraddhaj_vlogs/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;
   <a href="https://twitter.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat"/>
   </a>
 </p>
+
