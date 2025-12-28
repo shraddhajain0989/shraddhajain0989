@@ -79,31 +79,43 @@
 ## 🌐 Connect with me
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/shraddha-jain-861a042b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="38"/>
   </a>
-  
-  <a href="https://www.hackerrank.com/profile/shraddhajain0989/">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" width="38"/>
   </a>
-  <a href="https://leetcode.com/u/shraddhajain0989/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" width="38"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.codechef.com/users/shraddha_jain6">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-<a href="https://youtube.com/@shr_dvlogs">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="38"
+      style="filter: invert(27%) sepia(17%) saturate(700%) hue-rotate(355deg) brightness(92%) contrast(90%);" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://youtube.com/@shr_dvlogs">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" width="38"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/shraddhaj_vlogs/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="38"/>
   </a>
-    <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://twitter.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="38"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" width="38"/>
   </a>
 </p>
