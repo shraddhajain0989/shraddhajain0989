@@ -57,6 +57,9 @@
 - 📊 Practicing **SQL & data analysis**
 - 💼 Preparing for **internships & placement**
 ---
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shraddhajain0989&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
 
