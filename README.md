@@ -59,7 +59,8 @@
 ---
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shraddhajain0989&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=shraddhajain0989&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 
 ## 📊 GitHub Stats
 
