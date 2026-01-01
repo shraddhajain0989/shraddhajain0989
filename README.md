@@ -57,9 +57,11 @@
 - 📊 Practicing **SQL & data analysis**
 - 💼 Preparing for **internships & placement**
 ---
-## 📊 GitHub Stats
+<h2 align="center">🔥 GitHub Streak</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shraddhajain0989&show_icons=true&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shraddhajain0989" />
+</p>
 
 
 ## 📊 GitHub Stats
