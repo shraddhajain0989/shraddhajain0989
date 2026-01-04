@@ -2,11 +2,11 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-brown?logo=codechef)](https://www.codechef.com/users/shraddha_jain0989)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/shraddhaj_vlogs)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/@shr_dvlogs)
-<h1 align="center">Hi 👋, I'm Shraddha Jain </h1>
+<h1 align="center">Hi 👋, I am Shraddha Jain </h1>
 <h3 align="center">Big Data Analyst | Machine Learning Enthusiast | B.Tech CSE</h3>
 
 <p align="center">
-  📊 Data • 🤖 Machine Learning • ☁️ Big Data
+  📊 Data • 🤖 Machine Learning • ☁️ Big Data . 
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ## 👩‍🎓 About Me
 - 🎓 **B.Tech Computer Science & Engineering**
 - 📊 Specializing in **Big Data Analytics**
-- 🤖 Focused on **Machine Learning & Data-driven solutions**
+- 🤖 Focused on **Machine Learning & Data-driven solutions** and also learning **IOT**
 - 💡 Passionate about extracting insights from large-scale data
 - 💼 Preparing for **Data Analyst / ML Intern / Big Data roles**
 
@@ -25,7 +25,8 @@
 ### 🔹 Programming & Query Languages
 - Python  
 - SQL  
-- Java (Basics)  
+- Java (Basics)
+- Hadoop(Basics)
 
 ### 🔹 Big Data Technologies
 - Hadoop (HDFS, MapReduce – Basics)  
