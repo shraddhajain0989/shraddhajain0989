@@ -2,7 +2,7 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-brown?logo=codechef)](https://www.codechef.com/users/shraddha_jain0989)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/shraddhaj_vlogs)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/@shr_dvlogs)
-<h1 align="center">Hi 👋, I'm Shraddha Jain</h1>
+<h1 align="center">Hi 👋, I'm Shraddha Jain </h1>
 <h3 align="center">Big Data Analyst | Machine Learning Enthusiast | B.Tech CSE</h3>
 
 <p align="center">
