@@ -61,11 +61,8 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shraddhajain0989 " />
+  <img src="https://streak-stats.demolab.com?user=shraddhajain0989&theme=default" />
 </p>
-
-
-
 
 ## 📊 GitHub Stats
 
