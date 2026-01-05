@@ -59,8 +59,8 @@
 - 💼 Preparing for **internships & placement**
 ---
 ## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=shraddhajain0989)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shraddhajain0989" alt="GitHub Streak" /></a>
 
 
 ## 📊 GitHub Stats
